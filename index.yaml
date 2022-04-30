@@ -3,6 +3,36 @@ entries:
   apps:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-04-30T16:00:45.773809-04:00"
+    description: A Helm chart for Kubernetes
+    digest: b975a0880bcf4f9a1425f19df29489bdab0cd27c78e4a7672f8da750ceb5d3f4
+    name: apps
+    type: application
+    urls:
+    - https://github.com/kha7281/helm-charts/releases/download/apps-0.1.910/apps-0.1.910.tgz
+    version: 0.1.910
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-30T16:00:45.683369-04:00"
+    description: A Helm chart for Kubernetes
+    digest: ee88937ade86b0031a85087823ea0390e9e6d6c40b75501de76b716ea9f9ca04
+    name: apps
+    type: application
+    urls:
+    - https://github.com/kha7281/helm-charts/releases/download/apps-0.1.909/apps-0.1.909.tgz
+    version: 0.1.909
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-30T16:00:45.600859-04:00"
+    description: A Helm chart for Kubernetes
+    digest: ccdae791c1b3b9cdd67f2313323cb1695ab6412d234b0e5085cfb575b1e84411
+    name: apps
+    type: application
+    urls:
+    - https://github.com/kha7281/helm-charts/releases/download/apps-0.1.908/apps-0.1.908.tgz
+    version: 0.1.908
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-04-30T15:09:14.544859-04:00"
     description: A Helm chart for Kubernetes
     digest: d8114e4dacd6280faecea1b36cf29023b3922b6b0dddfbcf61cdcf2ff73f0344
@@ -11,4 +41,4 @@ entries:
     urls:
     - https://github.com/kha7281/helm-charts/releases/download/apps-0.1.0/apps-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-30T15:09:14.544867-04:00"
+generated: "2022-04-30T16:00:45.773837-04:00"
