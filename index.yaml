@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   apps:
   - apiVersion: v2
+    appVersion: "959"
+    created: "2022-05-31T15:39:32.033533221Z"
+    description: A Helm chart for Kubernetes
+    digest: 69b056a7b3d31ea47a257e82328d81f53651bb075389c3e3e19155b4d49b40f7
+    name: apps
+    type: application
+    urls:
+    - https://github.com/kha7281/helm-charts/releases/download/apps-0.1.959/apps-0.1.959.tgz
+    version: 0.1.959
+  - apiVersion: v2
     appVersion: "958"
     created: "2022-05-27T19:17:07.561715869Z"
     description: A Helm chart for Kubernetes
@@ -171,4 +181,4 @@ entries:
     urls:
     - https://github.com/kha7281/helm-charts/releases/download/apps-0.1.0/apps-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-27T19:17:07.561953807Z"
+generated: "2022-05-31T15:39:32.033668615Z"
